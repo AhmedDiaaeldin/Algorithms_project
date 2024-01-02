@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=oNI0rf2P9gE&ab_channel=AbdulBari
+https://www.youtube.com/watch?v=miJ88I43x4E&ab_channel=AlgorithmswithAttitude
+https://www.youtube.com/watch?v=NzgFUwOaoIw&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=15&ab_channel=MITOpenCourseWare
+
+and tools:
+https://pypi.org/project/recursion-visualiser/#:~:text=Recursion%20visualiser%20is%20a%20python,the%20rest%20of%20the%20work.
